@@ -1,3 +1,4 @@
+test
 Tomcat 5.0 Support (the recommended server for running tradeportal is Tomcat 5.0.28)
 
 tradeportal requires Java 5.
